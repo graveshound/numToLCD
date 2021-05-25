@@ -1,0 +1,17 @@
+{
+  "name": "numtolcd",
+  "version": "1.0.0",
+  "description": "aburrido",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xd"
+  ],
+  "author": "hound",
+  "license": "ISC",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
